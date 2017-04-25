@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laurenbond.com" resolutions="1x" timestamp="1493128928387">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laurenbond.com" resolutions="1x" timestamp="1493140456556">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="198461207" ref="cecil-the-lion:index:cons:policy:pros:works-cited:what-is-it"/>
-    <file name="cecil-the-lion.css" crc="367944390" ref="cecil-the-lion"/>
-    <file name="index.css" crc="4029582915" ref="index"/>
-    <file name="cons.css" crc="4200078523" ref="cons"/>
-    <file name="policy.css" crc="4294461346" ref="policy"/>
-    <file name="pros.css" crc="4204097711" ref="pros"/>
-    <file name="works-cited.css" crc="387487980" ref="works-cited"/>
-    <file name="what-is-it.css" crc="3923990927" ref="what-is-it"/>
+    <file name="cecil-the-lion.css" crc="41496362" ref="cecil-the-lion"/>
+    <file name="index.css" crc="3953626197" ref="index"/>
+    <file name="cons.css" crc="3814933688" ref="cons"/>
+    <file name="policy.css" crc="3776510835" ref="policy"/>
+    <file name="pros.css" crc="349537175" ref="pros"/>
+    <file name="works-cited.css" crc="305099008" ref="works-cited"/>
+    <file name="what-is-it.css" crc="457126493" ref="what-is-it"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
@@ -21,67 +21,67 @@
     <file name="require.js" crc="4234670167" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
   </folder>
   <folder name="images">
-    <file name="u106-4.png" crc="32986499" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="u224-4.png" crc="4245552368" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="u232-4.png" crc="3950361273" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="u445-4.png" crc="3889578638" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="u486-4.png" crc="4284532640" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="u530-4.png" crc="455515142" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="u571-4.png" crc="362174929" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="u622-4.png" crc="107587016" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
-    <file name="pngpix-com-lion-png-transparent-image-1.png" crc="313026151" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
-      <caption webpage="pros" alt=""/>
-      <caption webpage="policy" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="works-cited" alt=""/>
-      <caption webpage="what-is-it" alt=""/>
-      <caption webpage="cons" alt=""/>
+    <file name="u106-4.png" crc="4260996742" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="u224-4.png" crc="3776851418" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="u232-4.png" crc="202482331" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="u445-4.png" crc="4090265412" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="u486-4.png" crc="240143326" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="u530-4.png" crc="3899758056" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="u571-4.png" crc="3847478157" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="u622-4.png" crc="3950092951" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited"/>
+    <file name="pngpix-com-lion-png-transparent-image-1.png" crc="3900720506" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
       <caption webpage="cecil-the-lion" alt=""/>
+      <caption webpage="cons" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pros" alt=""/>
+      <caption webpage="what-is-it" alt=""/>
     </file>
-    <file name="elephants_png18774.png" crc="4094250931" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
-      <caption webpage="pros" alt=""/>
-      <caption webpage="policy" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="works-cited" alt=""/>
-      <caption webpage="what-is-it" alt=""/>
-      <caption webpage="cons" alt=""/>
+    <file name="elephants_png18774.png" crc="4063020036" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
       <caption webpage="cecil-the-lion" alt=""/>
+      <caption webpage="cons" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pros" alt=""/>
+      <caption webpage="what-is-it" alt=""/>
     </file>
-    <file name="giraffe-png-transparent-image-1.png" crc="3995434588" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
-      <caption webpage="pros" alt=""/>
-      <caption webpage="policy" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="works-cited" alt=""/>
-      <caption webpage="what-is-it" alt=""/>
-      <caption webpage="cons" alt=""/>
+    <file name="giraffe-png-transparent-image-1.png" crc="4097077350" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
       <caption webpage="cecil-the-lion" alt=""/>
+      <caption webpage="cons" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pros" alt=""/>
+      <caption webpage="what-is-it" alt=""/>
     </file>
-    <file name="leopard_png14826.png" crc="492828967" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
-      <caption webpage="pros" alt=""/>
-      <caption webpage="policy" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="works-cited" alt=""/>
-      <caption webpage="what-is-it" alt=""/>
-      <caption webpage="cons" alt=""/>
+    <file name="leopard_png14826.png" crc="169514591" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
       <caption webpage="cecil-the-lion" alt=""/>
+      <caption webpage="cons" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pros" alt=""/>
+      <caption webpage="what-is-it" alt=""/>
     </file>
     <file name="rhino_png6.png" crc="464320588" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
-      <caption webpage="pros" alt=""/>
-      <caption webpage="policy" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="works-cited" alt=""/>
-      <caption webpage="what-is-it" alt=""/>
-      <caption webpage="cons" alt=""/>
       <caption webpage="cecil-the-lion" alt=""/>
+      <caption webpage="cons" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pros" alt=""/>
+      <caption webpage="what-is-it" alt=""/>
     </file>
-    <file name="deer-calf-head.png" crc="383784401" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
-      <caption webpage="pros" alt=""/>
-      <caption webpage="policy" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="works-cited" alt=""/>
-      <caption webpage="what-is-it" alt=""/>
-      <caption webpage="cons" alt=""/>
+    <file name="deer-calf-head.png" crc="506716543" seo="true" ref="index:what-is-it:pros:cons:cecil-the-lion:policy:works-cited">
       <caption webpage="cecil-the-lion" alt=""/>
+      <caption webpage="cons" alt=""/>
+      <caption webpage="policy" alt=""/>
+      <caption webpage="works-cited" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pros" alt=""/>
+      <caption webpage="what-is-it" alt=""/>
     </file>
     <file name="hippo_png17.png" crc="4182256977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -107,22 +107,31 @@
     <file name="greater_kudu_(eryel)m.png" crc="431698662" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u326-4.png" crc="4179393019" ref="what-is-it"/>
-    <file name="u647-4.png" crc="3865475178" ref="pros"/>
     <file name="u659-5.png" crc="3913774999" ref="cons"/>
     <file name="static_qr_code_without_logo.jpg" crc="3885242003" seo="true" ref="cecil-the-lion">
       <caption webpage="cecil-the-lion" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="cecil-the-lion"/>
-    <file name="u651.png" crc="4272520300" ref="cecil-the-lion"/>
-    <file name="u651-r.png" crc="4272520300" ref="cecil-the-lion"/>
-    <file name="u662-5.png" crc="160068676" ref="policy"/>
+    <file name="blank.gif" crc="4208392903" ref="cecil-the-lion:policy"/>
+    <file name="u651.png" crc="448729426" ref="cecil-the-lion"/>
+    <file name="u651-r.png" crc="448729426" ref="cecil-the-lion"/>
+    <file name="huge_item_capebuffalo_01.png" crc="62175001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="huge_item_bontebok_01.png" crc="74076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u326-7.png" crc="336586226" ref="what-is-it"/>
+    <file name="u647-10.png" crc="3779539655" ref="pros"/>
+    <file name="u662-4.png" crc="37921520" ref="policy"/>
+    <file name="u701.png" crc="331236752" ref="policy"/>
+    <file name="u701-r.png" crc="331236752" ref="policy"/>
+    <file name="u697-56.png" crc="3916041431" ref="works-cited"/>
   </folder>
-  <file name="index.html" crc="114475387" seo="true" mt="1493126940392" redirect="true"/>
-  <file name="what-is-it.html" crc="264716831" seo="true" mt="1493044584447" redirect="true"/>
-  <file name="pros.html" crc="4126167783" seo="true" mt="1493045298191" redirect="true"/>
-  <file name="cons.html" crc="487661019" seo="true" mt="1493062497971" redirect="true"/>
-  <file name="cecil-the-lion.html" crc="534644797" seo="true" mt="1493045488488" redirect="true"/>
-  <file name="policy.html" crc="198524529" seo="true" mt="1493063500741" redirect="true"/>
-  <file name="works-cited.html" crc="302320483" seo="true" mt="1492999163999" redirect="true"/>
+  <file name="index.html" crc="3940600167" seo="true" mt="1493139913811" redirect="true"/>
+  <file name="what-is-it.html" crc="4219166204" seo="true" mt="1493139913811" redirect="true"/>
+  <file name="pros.html" crc="365094974" seo="true" mt="1493139913811" redirect="true"/>
+  <file name="cons.html" crc="3823450237" seo="true" mt="1493139913811" redirect="true"/>
+  <file name="cecil-the-lion.html" crc="3901092275" seo="true" mt="1493139913811" redirect="true"/>
+  <file name="policy.html" crc="299487460" seo="true" mt="1493139913811" redirect="true"/>
+  <file name="works-cited.html" crc="4267308261" seo="true" mt="1493139913811" redirect="true"/>
 </manifest>

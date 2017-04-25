@@ -47,10 +47,16 @@
     <image:image>
       <image:loc>http://laurenbond.com/images/greater_kudu_(eryel)m.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://laurenbond.com/images/huge_item_capebuffalo_01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laurenbond.com/images/huge_item_bontebok_01.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://laurenbond.com/what-is-it.html</loc>
-    <lastmod>2017-04-24</lastmod>
+    <lastmod>2017-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -74,7 +80,7 @@
   </url>
   <url>
     <loc>http://laurenbond.com/pros.html</loc>
-    <lastmod>2017-04-24</lastmod>
+    <lastmod>2017-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -98,7 +104,7 @@
   </url>
   <url>
     <loc>http://laurenbond.com/cons.html</loc>
-    <lastmod>2017-04-24</lastmod>
+    <lastmod>2017-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,7 +128,7 @@
   </url>
   <url>
     <loc>http://laurenbond.com/cecil-the-lion.html</loc>
-    <lastmod>2017-04-24</lastmod>
+    <lastmod>2017-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -149,7 +155,7 @@
   </url>
   <url>
     <loc>http://laurenbond.com/policy.html</loc>
-    <lastmod>2017-04-24</lastmod>
+    <lastmod>2017-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -173,7 +179,7 @@
   </url>
   <url>
     <loc>http://laurenbond.com/works-cited.html</loc>
-    <lastmod>2017-04-23</lastmod>
+    <lastmod>2017-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
